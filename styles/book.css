@@ -1,0 +1,58 @@
+.main-book {
+  background-color: #e8c6a5a3;
+  padding: 64px 0;
+}
+
+h1 {
+  margin-bottom: 32px;
+}
+p {
+  margin-bottom: 32px;
+}
+label {
+  font-size: 20px;
+}
+.field {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px 0;
+}
+label {
+  min-width: 250px;
+  width: 100%;
+}
+input,
+input[type="checkbox" i] {
+  width: 100%;
+  font-size: 20px;
+  background-color: transparent;
+  border: none;
+  border-bottom: 2px solid #042842;
+}
+input[type="submit"] {
+  height: 50px;
+  width: 250px;
+  border: 2px solid #042842;
+  border-radius: 5px;
+  background-color: white;
+  font-size: 24px;
+}
+.submit-wrapper {
+  margin-top: 32px;
+  text-align: center;
+}
+select {
+  background-color: transparent;
+  border: none;
+  border-bottom: 2px solid #042842;
+}
+form {
+  width: 80%;
+}
+a {
+  font-size: 18px;
+  color: #042842;
+}
+.about-book {
+  margin: 0 20%;
+}
